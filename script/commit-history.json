@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "60542c98a31aed3894f0513b713e5e6c6dcc370a",
     "author": "unknown",
     "commit": {
       "date": "2026-08-27T14:06:20.000Z",
       "message": "feat: can now detect multipules of 3",
-      "url": "https://github.com/SealessPirate/TDDFizzBuzz/commit/HEAD"
+      "url": "https://github.com/SealessPirate/TDDFizzBuzz/commit/60542c98a31aed3894f0513b713e5e6c6dcc370a"
     },
     "stats": {
       "total": 1,
@@ -17,5 +17,24 @@
     "test_count": 0,
     "failed_tests": 0,
     "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "unknown",
+    "commit": {
+      "date": "2026-08-27T14:20:42.000Z",
+      "message": "test fallido del mismo numero",
+      "url": "https://github.com/SealessPirate/TDDFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
