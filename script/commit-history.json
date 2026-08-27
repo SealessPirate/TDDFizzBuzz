@@ -19,11 +19,30 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "e63dce35f925b46f35f96439dcbb085dafc545a9",
     "author": "unknown",
     "commit": {
       "date": "2026-08-27T14:20:42.000Z",
       "message": "test fallido del mismo numero",
+      "url": "https://github.com/SealessPirate/TDDFizzBuzz/commit/e63dce35f925b46f35f96439dcbb085dafc545a9"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "unknown",
+    "commit": {
+      "date": "2026-08-27T14:26:37.000Z",
+      "message": "just to make sure",
       "url": "https://github.com/SealessPirate/TDDFizzBuzz/commit/HEAD"
     },
     "stats": {
